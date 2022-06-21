@@ -1,0 +1,54 @@
+body {
+background-color: pink;
+font-family: 'Special Elite', cursive;
+}
+.heading {
+    background-color: #00c9b8;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+.heading h3 {
+    display: inline;
+    font-size: 30px;
+}
+.heading button {
+    float: right;
+    background-color: #fe5e54;
+    font-size: 30px;
+}
+.mario_picture {
+    width: 100%;
+}
+.start_button {
+    font-size: 30px;
+    background-color: #ffb3c1;
+
+}
+.status {
+    font-size: 30px;
+    background-color: #fcd200;
+    border: 2px solid black;
+}
+#source_code {
+    background-color: #e52521;
+    text-align: center;
+    font-size: 30px;
+    line-height: 2;
+    word-spacing: 10px;
+}
+#instruction_heading {
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+#instruction_img {
+    display: inline-block;
+    width: 45%;
+}
+.modal-dialog {
+    width: 80%;
+}
+.canvas {
+    overflow: hidden;
+}
